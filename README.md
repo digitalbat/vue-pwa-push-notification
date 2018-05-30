@@ -1,8 +1,9 @@
 # vue-pwa-push-notification
 
-Push notification on a vue pwa project
-works on mobile and desktop
-see example on https://vue-pwa-push-notification.think.art.br
+>Push notification on a vue pwa project
+>works on mobile and desktop
+>see example on https://vue-pwa-push-notification.think.art.br
+
 
 
 
