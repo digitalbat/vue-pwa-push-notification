@@ -9,7 +9,7 @@ export default {
   name: 'Push',
   data () {
     return {
-      msg: 'Call Push'
+      msg: 'Push'
     }
   },
   methods: {

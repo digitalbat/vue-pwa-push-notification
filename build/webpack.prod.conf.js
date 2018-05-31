@@ -100,7 +100,7 @@ const webpackConfig = merge(baseWebpackConfig, {
     ]),
     // service worker caching
     new SWPrecacheWebpackPlugin({
-      cacheId: 'debie-version',
+      cacheId: 'vue-pwa-push-notification',
       filename: 'service-worker.js',
       staticFileGlobs: ['dist/**/*.{js,html,css}'],
       runtimeCaching: [
